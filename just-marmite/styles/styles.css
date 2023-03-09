@@ -1,0 +1,12 @@
+.gridImg{
+  min-height: 300px;
+  z-index: 0;
+  position: relative;
+}
+
+.bannerImg {
+  width: 100%;
+  position: relative;
+  height: 450px;
+}
+  
